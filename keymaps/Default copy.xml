@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorContextInfo" />
+  <action id="Macro.console.log">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Macro.data-testid">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Macro.pause">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Macro.waitAndClick">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Macro.waitAndSetValue">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Macro.waitForVisible">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+</keymap>
